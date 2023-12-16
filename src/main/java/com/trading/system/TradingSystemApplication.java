@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TradingSystemApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TradingSystemApplication.class, args);
+	public static void main(String[] args) {	SpringApplication.run(TradingSystemApplication.class, args);
 	}
 	
 }
