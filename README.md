@@ -1,4 +1,4 @@
 # trading-system
 
 ## About
-This is a mock of actual trading systems. 
+This is a mock application of actual trading systems. 
